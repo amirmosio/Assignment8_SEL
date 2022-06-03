@@ -1,8 +1,7 @@
 package Prototype.Plants;
 
-public package Prototype.Plants;
-
 import java.util.Objects;
+
 
 public abstract class Plant {
     public String color;
@@ -32,6 +31,4 @@ public abstract class Plant {
     }
 
     public abstract Plant clone();
-} Plant {
-    
 }
